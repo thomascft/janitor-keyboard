@@ -1,0 +1,61 @@
+units:
+  $default_height: 'cy'
+  $default_width: 'cx'
+  $default_padding: 'cy'
+  $default_spread: 'cx'
+
+points:
+  zones:
+    main:
+      columns:
+        pinky:
+          key:
+        ring:
+          key.stagger: 10
+        middle:
+          key.stagger: 5
+        index:
+          key.stagger: -5
+        far:
+          key.stagger: -5
+      rows:
+        bottom:
+        home:
+        top:
+    thumb:
+      anchor:
+        ref: "main_far_bottom"
+        shift: [0.5cx, -1cy]
+      columns:
+        inner:
+          key:
+            stagger: -5
+            splay: -20
+        outer:
+          key:
+            stagger: -0.25cy
+outlines:
+  keys:
+    - what: rectangle
+      where: true
+      size: [cx - 0.1, cy - 0.1]
+  mcu:
+    - what: rectangle
+      size: [17.18, 33]
+      adjust.shift: [0.5sx, -0.5sy]
+      where: 
+        ref: "main_far_top"
+        shift: [0.5cx + 5, 0.5cy]
+  board:
+    - name: keys
+    - name: mcu
+      expand: 2
+      joints: 1
+    - what: rectangle
+  preview:
+    - name: board
+    - operation: stack
+      name: keys
+    - operation: stack
+      name: mcu
+

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Janitor")(type "KiCad")(uri "${KIPRJMOD}/Janitor.pretty")(options "")(descr ""))
+)

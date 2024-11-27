@@ -1,0 +1,133 @@
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 647:Plugin executed on: 'linux'
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 648:Plugin executed with python version: '3.12.7 (main, Nov 10 2011, 15:00:00) [GCC 14.2.0]'
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 649:KiCad build version: 8.0.6
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 650:Plugin version: 3.0.0
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 651:Frame repr: <wx._core.Frame object at 0x7fa6c773e3c0>
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint U2 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint U1 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW38 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW37 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW36 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW35 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW34 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW33 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW32 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW31 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW30 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW29 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW28 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW27 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW26 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW25 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW24 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW23 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW22 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW21 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW20 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW19 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW18 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW17 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW16 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW15 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW14 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW13 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW12 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW11 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW10 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW9 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW8 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW7 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW6 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW5 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW4 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW3 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW2 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint SW1 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint O2 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint O1 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED34 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED33 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED32 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED31 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED30 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED29 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED28 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED27 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED26 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED25 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED24 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED23 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED22 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED21 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED20 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED19 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED18 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED17 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED16 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED15 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED14 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED13 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED12 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED11 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED10 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED9 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED8 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED7 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED6 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED5 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED4 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED3 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED2 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint LED1 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J2 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J1 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D34 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D33 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D32 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D31 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D30 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D29 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D28 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D27 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D26 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D25 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D24 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D23 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D22 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D21 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D20 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D19 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D18 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D17 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D16 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D15 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D14 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D13 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D12 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D11 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D10 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D9 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D8 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D7 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D6 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D5 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D4 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D3 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D2 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D1 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint BT2 on root level
+11-23 18:43:46 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint BT1 on root level
+11-23 18:43:47 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 830:Reference designator is: D
+11-23 18:43:47 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 831:Reference number is: 18
+11-23 18:43:47 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 863:Sorted and filtered list:
+['D1', 'D2', 'D3', 'D4', 'D5', 'D6', 'D7', 'D8', 'D9', 'D10', 'D11', 'D12', 'D13', 'D14', 'D15', 'D16', 'D17', 'D18', 'D19', 'D20', 'D21', 'D22', 'D23', 'D24', 'D25', 'D26', 'D27', 'D28', 'D29', 'D30', 'D31', 'D32', 'D33', 'D34']
+11-23 18:43:47 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 359:wx.Colour(53, 53, 53, 255)
+11-23 18:43:54 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 490:'18'
+11-23 18:43:54 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 549:Preparing config for reference matrix
+11-23 18:43:54 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 556:Saving config file
+11-23 18:43:54 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 558:Saved the config file
+11-23 18:43:54 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 901:Footprints to place:
+['D18', 'D19', 'D20', 'D21', 'D22', 'D23', 'D24', 'D25', 'D26', 'D27', 'D28', 'D29', 'D30', 'D31', 'D32', 'D33', 'D34']
+11-23 18:43:54 com_github_MitjaNemec_PlaceFootprints.place_footprints 398:Starting placing with matrix layout
+11-23 18:43:54 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 971:Placing complete

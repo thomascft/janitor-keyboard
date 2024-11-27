@@ -1,0 +1,228 @@
+(footprint "LED_SK6812-Mini-E"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.775 180)
+		(layer "F.SilkS")
+		(uuid "4d8d2da9-2c5b-4753-bffb-93aed7f3ebed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SK6812"
+		(at 0 2.75 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c07024b0-3336-4d1c-a725-03e8f401b954")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Janitor:LED_SK6812_Mini_E"
+		(at -0.05 7.125 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8a67e313-463d-4379-983a-9da66e6af266")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf"
+		(at 0.025 11.025 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9bea39a-25a9-4498-a4a7-04930b211b8f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "RGB LED with integrated controller"
+		(at 0.025 8.775 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a71e3aa3-89d2-4200-9d78-9b296f7ee5d4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLCPCB BOM" "0"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1c2e989d-6ea2-4af7-b8db-7d09101b3afc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 3.5 0.3)
+		(end 1.75 0.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4bd7ed9-9dc7-4ef3-9769-5f936b21dd76")
+	)
+	(fp_line
+		(start 3.5 1.45)
+		(end 1.75 1.45)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ba41ee60-e7d7-438e-80af-bb35d34242ff")
+	)
+	(fp_line
+		(start 3.5 1.45)
+		(end 3.5 0.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ff01c3fb-32e2-4dc9-9dd2-86e04e4ed57f")
+	)
+	(fp_line
+		(start -1.7 1.5)
+		(end -1.7 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f2a675c0-fd8d-4270-87b6-8cda28777ad0")
+	)
+	(fp_line
+		(start -0.7 -1.5)
+		(end 0.7 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5e7938ad-2380-4c14-a515-6996172fb7ec")
+	)
+	(fp_line
+		(start -0.7 1.5)
+		(end 0.7 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "72b286d2-7912-4d7c-b817-44946d2d7d3e")
+	)
+	(fp_line
+		(start 1.7 -1.5)
+		(end 1.7 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "7136b5de-a54f-4f53-9af8-b9d24efe94e0")
+	)
+	(fp_arc
+		(start -1.7 -1.5)
+		(mid -1.2 -2)
+		(end -0.7 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b238653c-294b-41bd-85f3-686adfb89d01")
+	)
+	(fp_arc
+		(start -0.7 1.5)
+		(mid -1.2 2)
+		(end -1.7 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "db8082f1-9287-4cf6-82ea-0d1af8b27273")
+	)
+	(fp_arc
+		(start 0.7 -1.5)
+		(mid 1.2 -2)
+		(end 1.7 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "fba8e871-5484-4397-be17-51593565dbfd")
+	)
+	(fp_arc
+		(start 1.7 1.5)
+		(mid 1.2 2)
+		(end 0.7 1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "89a03b99-bc59-472f-893b-625bb32e8895")
+	)
+	(pad "1" smd rect
+		(at -2.55 -0.875 180)
+		(size 1.6 0.85)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(zone_connect 2)
+		(uuid "57cf4f4a-0248-4ee5-aa41-2c2094a634f2")
+	)
+	(pad "2" smd rect
+		(at -2.55 0.875)
+		(size 1.6 0.85)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(zone_connect 2)
+		(uuid "993f1b0c-dc56-47ee-a202-36bd9ad7bef7")
+	)
+	(pad "3" smd rect
+		(at 2.55 0.875)
+		(size 1.6 0.85)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(zone_connect 2)
+		(uuid "758b9750-3cb8-4a8c-acbb-f27597f59be3")
+	)
+	(pad "4" smd rect
+		(at 2.55 -0.875 180)
+		(size 1.6 0.85)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(zone_connect 2)
+		(uuid "a7fcfd19-685c-4e40-bdf5-72ac3d43428f")
+	)
+	(group ""
+		(uuid "c8b0645e-5411-40cb-9db4-0eb3242b5a49")
+		(members "5e7938ad-2380-4c14-a515-6996172fb7ec" "7136b5de-a54f-4f53-9af8-b9d24efe94e0"
+			"72b286d2-7912-4d7c-b817-44946d2d7d3e" "89a03b99-bc59-472f-893b-625bb32e8895"
+			"b238653c-294b-41bd-85f3-686adfb89d01" "db8082f1-9287-4cf6-82ea-0d1af8b27273"
+			"f2a675c0-fd8d-4270-87b6-8cda28777ad0" "fba8e871-5484-4397-be17-51593565dbfd"
+		)
+	)
+)
